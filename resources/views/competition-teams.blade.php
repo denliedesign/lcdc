@@ -22,14 +22,18 @@
         </div>
 
         <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-1.jpg" alt="competition" class="img-fluid"></div>
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-2.jpg" alt="competition" class="img-fluid"></div>
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-3.jpg" alt="competition" class="img-fluid"></div>
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-4.jpg" alt="competition" class="img-fluid"></div>
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-5.jpg" alt="competition" class="img-fluid"></div>
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-6.jpg" alt="competition" class="img-fluid"></div>
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-7.jpg" alt="competition" class="img-fluid"></div>
-            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-v-8.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-1.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-5.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-6.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-7.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-2.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-9.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-10.jpg" alt="competition" class="img-fluid"></div>
+{{--            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-11.jpg" alt="competition" class="img-fluid"></div>--}}
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-12.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-3.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-4.jpg" alt="competition" class="img-fluid"></div>
+            <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-8.jpg" alt="competition" class="img-fluid"></div>
         </div>
         <div class="row">
             {{--            <div class="col-sm">--}}
