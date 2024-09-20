@@ -68,6 +68,9 @@
         <div class="d-flex justify-content-center my-2"><img src="/images/staff-7.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/staff-8.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/staff-9.jpg" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/staff-madison-birmingham.jpg" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/staff-jasmine-friday.jpg" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/staff-elle-jones.jpg" alt="staff headshot" class="img-fluid"></div>
         {{--        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-16.jpg" alt="staff headshot" class="img-fluid"></div>--}}
         {{--        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-13.jpg" alt="staff headshot" class="img-fluid"></div>--}}
         {{--        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-15.jpg" alt="staff headshot" class="img-fluid"></div>--}}
