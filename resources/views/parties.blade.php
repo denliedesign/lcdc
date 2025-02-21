@@ -6,7 +6,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-5">Birthday Parties</h1>
+        <h1 class="text-center my-5">Special Events / Birthday Parties</h1>
         <p class="text-center mb-5">
             <a href="https://forms.gle/iLqwvfVHUQQdT4hX8" target="_blank" class="btn btn-redish btn-lg">Book Your Party Now!</a>
         </p>

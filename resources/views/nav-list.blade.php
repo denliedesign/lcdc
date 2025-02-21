@@ -27,7 +27,7 @@
         <a class="nav-link" href="/competition-teams">competition</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/parties">parties</a>
+        <a class="nav-link" href="/parties">events/parties</a>
     </li>
     <li class="nav-item mx-2">
         <a class="nav-link" href="/crystal-springs">crystal springs</a>
