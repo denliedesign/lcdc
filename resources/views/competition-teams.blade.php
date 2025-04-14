@@ -14,10 +14,10 @@
         </p>
         <div class="row">
             <div class="col-sm">
-                <img src="/images/audition-dance.jpg" alt="audition poster" class="img-fluid">
+                <img src="/images/audition-dance-25.jpg" alt="audition poster" class="img-fluid">
             </div>
             <div class="col-sm">
-                <img src="/images/audition-cheer.jpeg" alt="audition poster" class="img-fluid">
+                <img src="/images/audition-cheer-25.jpeg" alt="audition poster" class="img-fluid">
             </div>
         </div>
 
