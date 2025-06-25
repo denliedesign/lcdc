@@ -10,7 +10,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center mt-5">Crystal Springs Summer Schedule</h1>
+        <h1 class="text-center mt-5">Crystal Springs 2025/2026 Schedule</h1>
         <p class="text-center my-3">
             <a href="mailto:crystalsprings@lcdanceco.com">crystalsprings@lcdanceco.com</a>
         </p>
