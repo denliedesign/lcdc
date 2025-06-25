@@ -19,11 +19,13 @@
 {{--            <a href="/images/cs/summer-cs.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mx-3">View PDF</div></a>--}}
         </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-            <div class="col"><img src="/images/cs-1.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>
-            <div class="col"><img src="/images/cs-2.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>
-            <div class="col"><img src="/images/cs-3.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>
-            <div class="col"><img src="/images/cs-4.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>
-            <div class="col"><img src="/images/cs-moana.jpeg" alt="summer graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/25-cs-1.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/25-cs-2.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/25-cs-3.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/25-cs-4.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/25-cs-5.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/25-cs-6.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+{{--            <div class="col"><img src="/images/cs-moana.jpeg" alt="summer graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/cs/summer-cs-1.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/cs/summer-cs-2.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/cs/summer-cs-3.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>--}}

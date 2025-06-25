@@ -61,8 +61,8 @@
                 <div class="gradient-splash p-4 my-4">
                     <p>
                         All tuition payments will be withdrawn automatically from your account. Please fill out an
-                        <a href="https://bit.ly/4eb8ZZI" target="_blank" class="text-white">ACH Form</a> and read more about this policy in our
-                        <a href="https://bit.ly/3V89TgO" target="_blank" class="text-white">LCDC Policy Handbook</a>.
+                        <a href="https://shorturl.at/fOmQG" target="_blank" class="text-white">ACH Form</a> and read more about this policy in our
+                        <a href="https://shorturl.at/IHd6s" target="_blank" class="text-white">LCDC Policy Handbook</a>.
                     </p>
                 </div>
                 <div class="gradient-splash p-4 my-4">
@@ -71,7 +71,7 @@
                     </p>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <img src="/images/24-draft-schedule.jpg" alt="payment schedule" class="img-fluid">
+                    <img src="/images/25-draft.jpg" alt="payment schedule" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm">
