@@ -32,7 +32,11 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="call"></ion-icon>
-                            601-398-3786
+                            call: 601-398-3786
+                        </li>
+                        <li class="list-group-item px-0 border-0">
+                            <ion-icon name="phone-portrait"></ion-icon>
+                            text: 601-850-3622
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>

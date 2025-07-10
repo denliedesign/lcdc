@@ -12,14 +12,14 @@
             The LCDC competition teams are chosen by audition. We are currently looking for individuals to compete. If you would like more information regarding competition teams please contact:
             601-398-3786.
         </p>
-        <div class="row">
-            <div class="col-sm">
-                <img src="/images/audition-dance-25.jpg" alt="audition poster" class="img-fluid">
-            </div>
-            <div class="col-sm">
-                <img src="/images/audition-cheer-25.jpg" alt="audition poster" class="img-fluid">
-            </div>
-        </div>
+{{--        <div class="row">--}}
+{{--            <div class="col-sm">--}}
+{{--                <img src="/images/audition-dance-25.jpg" alt="audition poster" class="img-fluid">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <img src="/images/audition-cheer-25.jpg" alt="audition poster" class="img-fluid">--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
             <div class="my-2" style="max-height: 408px; overflow: hidden; object-fit: cover;"><img src="/images/comp-1.JPG" alt="competition" class="img-fluid"></div>
