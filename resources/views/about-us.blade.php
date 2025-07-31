@@ -59,11 +59,11 @@
 
     <div class="container">
         <h1 class="text-center my-5">Staff</h1>
-        <div class="d-flex justify-content-center my-2"><img src="/images/allyson.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/elle.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/elliott.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/emily.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/jasmine.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/Allyson.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/Elle.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/Elliott.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/Emily.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/Jasmine.png" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/LC.png" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/Shay.png" alt="staff headshot" class="img-fluid"></div>
 {{--        <div class="d-flex justify-content-center my-2"><img src="/images/staff-1.jpg" alt="staff headshot" class="img-fluid"></div>--}}
