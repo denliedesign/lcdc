@@ -65,7 +65,7 @@
         <div class="d-flex justify-content-center my-2"><img src="/images/Elliott.png" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/Jasmine.png" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/Shay.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/Elle.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/staff-elle.png" alt="staff headshot" class="img-fluid"></div>
 
         {{--        <div class="d-flex justify-content-center my-2"><img src="/images/staff-1.jpg" alt="staff headshot" class="img-fluid"></div>--}}
 {{--        <div class="d-flex justify-content-center my-2"><img src="/images/staff-2.jpg" alt="staff headshot" class="img-fluid"></div>--}}
