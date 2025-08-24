@@ -10,14 +10,16 @@
         <p class="text-center mb-5">
             <a href="https://forms.gle/iLqwvfVHUQQdT4hX8" target="_blank" class="btn btn-redish btn-lg">Book Your Party Now!</a>
         </p>
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
-            <img src="/images/party.jpg" alt="birthday parties" class="img-fluid">
-            <img src="/images/party-packages.jpg" alt="birthday parties" class="img-fluid">
-            <img src="/images/party-add-ons.jpg" alt="birthday parties" class="img-fluid">
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+            <img src="/images/party-1.jpg" alt="birthday parties" class="img-fluid">
+            <img src="/images/party-cs.jpg" alt="birthday parties" class="img-fluid">
+            <img src="/images/party-2.jpg" alt="birthday parties" class="img-fluid">
+            <img src="/images/party-3.jpg" alt="birthday parties" class="img-fluid">
+{{--            <img src="/images/party-packages.jpg" alt="birthday parties" class="img-fluid">--}}
+{{--            <img src="/images/party-add-ons.jpg" alt="birthday parties" class="img-fluid">--}}
         </div>
         {{--        <h2 class="text-center text-uppercase fw-bold mt-4" style="font-size: 4em;">Book Your Party Now!</h2>--}}
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2 my-4">
-            <div class="col d-flex justify-content-center align-items-center"><img src="/images/party-image.jpg" alt="party" class="img-fluid"></div>
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 my-4">
             {{--            <div class="col">--}}
             {{--                <div>--}}
             {{--                    <iframe--}}
@@ -41,7 +43,12 @@
             {{--                    <script src="https://link.enrollio.ai/js/form_embed.js"></script>--}}
             {{--                </div>--}}
             {{--            </div>--}}
+            <div class="col d-flex justify-content-center align-items-center"><img src="/images/party-image.jpg" alt="party" class="img-fluid"></div>
             <div class="col d-flex justify-content-center align-items-center"><img src="/images/party-image-2.jpg" alt="party" class="img-fluid"></div>
+            <div class="col d-flex justify-content-center align-items-center"><img src="/images/nerf-1.JPG" alt="party" class="img-fluid"></div>
+            <div class="col d-flex justify-content-center align-items-center"><img src="/images/nerf-2.JPG" alt="party" class="img-fluid"></div>
+            <div class="col d-flex justify-content-center align-items-center"><img src="/images/nerf-3.JPG" alt="party" class="img-fluid"></div>
+            <div class="col d-flex justify-content-center align-items-center"><img src="/images/nerf-4.JPG" alt="party" class="img-fluid"></div>
         </div>
     </div>
 
