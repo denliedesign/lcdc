@@ -42,7 +42,10 @@
     {{--        </p>--}}
 
     <!-- old fall schedule content -->
-{{--        <h1 class="text-center mt-5">Crystal Springs Fall Schedule</h1>--}}
+        <h1 class="text-center mt-5">Crystal Springs Birthday Parties</h1>
+        <p class="text-center mb-5 mt-4">
+            <a href="https://forms.gle/iLqwvfVHUQQdT4hX8" target="_blank" class="btn btn-redish btn-lg">Book Your Party Now!</a>
+        </p>
 {{--        <p class="text-center my-3">--}}
 {{--            <a href="mailto:crystalsprings@lcdanceco.com">crystalsprings@lcdanceco.com</a>--}}
 {{--        </p>--}}
@@ -50,16 +53,18 @@
 {{--            <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="mx-3 shadow btn btn-lg btn-red btn-family">Register</div></a>--}}
 {{--            <a href="/images/24-25-cs-schedule.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mx-3">View PDF</div></a>--}}
 {{--        </div>--}}
-{{--        <div class="my-3">--}}
-{{--            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
+        <div class="my-3">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
+                <img src="/images/party-cs.jpg" alt="birthday parties" class="img-fluid">
+
 {{--                <img src="/images/24-25-cs-schedule_page-0001.jpg" alt="classes" class="img-fluid my-1">--}}
 {{--                <img src="/images/24-25-cs-schedule_page-0002.jpg" alt="classes" class="img-fluid my-1">--}}
 {{--                <img src="/images/24-25-cs-schedule_page-0003.jpg" alt="classes" class="img-fluid my-1">--}}
 {{--                <img src="/images/24-25-cs-schedule_page-0004.jpg" alt="classes" class="img-fluid my-1">--}}
 {{--                <img src="/images/24-25-cs-schedule_page-0005.jpg" alt="classes" class="img-fluid my-1">--}}
 {{--                <img src="/images/24-25-cs-schedule_page-0006.jpg" alt="classes" class="img-fluid my-1">--}}
-{{--            </div>--}}
-{{--        </div>--}}
+            </div>
+        </div>
         <!-- end old fall schedule content -->
 
         {{--        <div class="row">--}}

@@ -12,7 +12,6 @@
         </p>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
             <img src="/images/party-1.jpg" alt="birthday parties" class="img-fluid">
-            <img src="/images/party-cs.jpg" alt="birthday parties" class="img-fluid">
             <img src="/images/party-2.jpg" alt="birthday parties" class="img-fluid">
             <img src="/images/party-3.jpg" alt="birthday parties" class="img-fluid">
 {{--            <img src="/images/party-packages.jpg" alt="birthday parties" class="img-fluid">--}}
