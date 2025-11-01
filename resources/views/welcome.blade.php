@@ -238,6 +238,13 @@
     {{--        <script src="https://link.enrollio.ai/js/form_embed.js"></script>--}}
     {{--    </div>--}}
 
+    <div class="container bg-white py-5">
+        <div class="row row-cols-md-2">
+            <img src="/images/business-sponsor-1.jpg" class="img-fluid p-5" alt="">
+            <img src="/images/business-sponsor-2.jpg" class="img-fluid p-5" alt="">
+        </div>
+    </div>
+
     <div id="mtjgd-bg" class="text-white">
         <div class="color-filter-gradient-black"></div>
         <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>
