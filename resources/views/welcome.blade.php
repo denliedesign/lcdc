@@ -41,6 +41,17 @@
         </div>
     </div>
 
+    <div class="bg-white">
+        <div class="container my-4">
+            <div class="ratio ratio-16x9">
+                <video controls>
+                    <source src="/images/lcdc-culture.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </div>
+
     {{--    <div class="bg-white">--}}
     {{--        <div class="container">--}}
     {{--            <div class="row my-3">--}}
