@@ -20,7 +20,7 @@
 {{--            <a href="/images/cs/summer-cs.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mx-3">View PDF</div></a>--}}
         </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-            <div class="col"><img src="/images/26-summer-cs.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/5-1-26-cs-summer.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
 {{--            <div class="col"><img src="/images/25-cs-1.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/25-cs-2.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/25-cs-3.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>--}}
