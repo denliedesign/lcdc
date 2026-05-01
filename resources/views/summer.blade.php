@@ -16,9 +16,9 @@
         </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
             <div class="col"><img src="/images/26-summer-byram-1.png" alt="summer graphic" class="img-fluid my-3 rounded"></div>
-            <div class="col"><img src="/images/26-summer-byram-2.png" alt="summer graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/5-1-26-summer.png" alt="summer graphic" class="img-fluid my-3 rounded"></div>
             <div class="col"><img src="/images/26-summer-byram-ballet-intensive.png" alt="summer graphic" class="img-fluid my-3 rounded"></div>
-            <div class="col"><img src="/images/26-summer-byram-tumble-camp.png" alt="summer graphic" class="img-fluid my-3 rounded"></div>
+            <div class="col"><img src="/images/5-1-26-tumble.png" alt="summer graphic" class="img-fluid my-3 rounded"></div>
 {{--            <div class="col"><img src="/images/byram-1.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/byram-2.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/byram-3.jpg" alt="summer graphic" class="img-fluid my-3 rounded"></div>--}}
