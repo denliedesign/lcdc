@@ -1,14 +1,13 @@
-<h1 class="text-center my-5">2025/2026 Season<br>Classes & Schedule</h1>
+<h1 class="text-center my-5">Byram 2026/2027 Season<br>Classes & Schedule</h1>
 <p class="text-center">
-    <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Enroll&meth=search&SEASON=2016%2F2017" target="_blank">View Class Schedule</a>
+    <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Enroll&meth=search&SEASON=2026%2F2027" target="_blank">View Class Schedule</a>
 </p>
 <div class="my-3">
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-        <img src="/images/25-byram-1.jpg" alt="classes" class="img-fluid my-1">
-        <img src="/images/25-byram-2.jpg" alt="classes" class="img-fluid my-1">
-        <img src="/images/25-byram-3.jpg" alt="classes" class="img-fluid my-1">
-        <img src="/images/25-byram-4.jpg" alt="classes" class="img-fluid my-1">
-        <img src="/images/25-byram-5.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/26-byram-1.png" alt="classes" class="img-fluid my-1">
+        <img src="/images/26-byram-2.png" alt="classes" class="img-fluid my-1">
+        <img src="/images/26-byram-3.png" alt="classes" class="img-fluid my-1">
+        <img src="/images/26-byram-4.png" alt="classes" class="img-fluid my-1">
     </div>
 </div>
 <p>
