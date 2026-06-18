@@ -62,7 +62,7 @@
                     <p>
                         All tuition payments will be withdrawn automatically from your account. Please fill out an
                         <a href="https://shorturl.at/EmFxF" target="_blank" class="text-white">ACH Form</a> and read more about this policy in our
-                        <a href="hhttps://shorturl.at/z8r6L" target="_blank" class="text-white">LCDC Policy Handbook</a>.
+                        <a href="https://shorturl.at/z8r6L" target="_blank" class="text-white">LCDC Policy Handbook</a>.
                     </p>
                 </div>
                 <div class="gradient-splash p-4 my-4">
