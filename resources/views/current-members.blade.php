@@ -10,17 +10,17 @@
         <div class="row">
             <div class="col-md d-flex justify-content-center">
                 <p>
-                    <a href="https://shorturl.at/fOmQG" target="_blank">25/26 ACH Form (automatic draft form)</a>
+                    <a href="https://shorturl.at/EmFxF" target="_blank">26/27 ACH Form (automatic draft form)</a>
                     <br><br>
-                    <a href="https://tinyurl.com/yufw97e8" target="_blank">25/26 Membership Agreement/Liability Waiver</a>
+                    <a href="https://shorturl.at/6QVNa" target="_blank">26/27 Membership Agreement/Liability Waiver</a>
                     <br><br>
-                    <a href="https://shorturl.at/2DBVF" target="_blank">25/26 Draft Schedule</a>
+                    <a href="https://shorturl.at/of2CW" target="_blank">26/27 Draft Schedule</a>
                     <br><br>
-                    <a href="https://shorturl.at/IHd6s" target="_blank">25/26 Policy Handbook</a>
+                    <a href="https://shorturl.at/z8r6L" target="_blank">26/27 Policy Handbook</a>
                     <br><br>
-                    <a href="https://tinyurl.com/5t3hc2eb" target="_blank">25/26 Welcome Letter</a>
+                    <a href="https://shorturl.at/EVbCE" target="_blank">26/27 Welcome Letter</a>
                     <br><br>
-                    <a href="https://shorturl.at/GTxxG" target="_blank">25/26 Studio Calendar</a>
+                    <a href="https://shorturl.at/VtvtX" target="_blank">26/27 Studio Calendar</a>
                     <br><br>
                     {{--                    <a href="/images/dress-code-24.jpeg" target="_blank">25/26 Dress Code</a>--}}
                     {{--                    <br><br>--}}
