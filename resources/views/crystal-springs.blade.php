@@ -40,7 +40,7 @@
             </p>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
                 <div class="col"><img src="/images/26-cs-1.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
-                <div class="col"><img src="/images/26-cs-2.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+                <div class="col"><img src="/images/cs-ages-2-6.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
                 <div class="col"><img src="/images/26-cs-3.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
                 <div class="col"><img src="/images/26-cs-4.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
                 <div class="col"><img src="/images/26-cs-5.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
