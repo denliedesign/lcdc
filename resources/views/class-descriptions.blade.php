@@ -9,6 +9,8 @@
         <img src="/images/26-byram-3.png" alt="classes" class="img-fluid my-1">
         <img src="/images/level-tumble.png" alt="classes" class="img-fluid my-1">
         <img src="/images/26-byram-5b.png" alt="classes" class="img-fluid my-1">
+        <img src="/images/karate-class.png" alt="classes" class="img-fluid my-1">
+
     </div>
 </div>
 <p>

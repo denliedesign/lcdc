@@ -10,17 +10,17 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center mt-5">Crystal Springs Summer 2026</h1>
+{{--        <h1 class="text-center mt-5">Crystal Springs Summer 2026</h1>--}}
 {{--        <h1 class="text-center mt-5">Crystal Springs 2025/2026 Schedule</h1>--}}
-        <p class="text-center my-3">
-            <a href="mailto:crystalsprings@lcdanceco.com">crystalsprings@lcdanceco.com</a>
-        </p>
-        <div class="d-flex justify-content-center my-4">
-            <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="mx-3 shadow btn btn-lg btn-red btn-family">Register</div></a>
+{{--        <p class="text-center my-3">--}}
+{{--            <a href="mailto:crystalsprings@lcdanceco.com">crystalsprings@lcdanceco.com</a>--}}
+{{--        </p>--}}
+{{--        <div class="d-flex justify-content-center my-4">--}}
+{{--            <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="mx-3 shadow btn btn-lg btn-red btn-family">Register</div></a>--}}
 {{--            <a href="/images/cs/summer-cs.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mx-3">View PDF</div></a>--}}
-        </div>
+{{--        </div>--}}
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-            <div class="col"><img src="/images/5-1-26-cs-summer.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>
+{{--            <div class="col"><img src="/images/5-1-26-cs-summer.png" alt="classes graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/25-cs-1.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/25-cs-2.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>--}}
 {{--            <div class="col"><img src="/images/25-cs-3.jpg" alt="classes graphic" class="img-fluid my-3 rounded"></div>--}}

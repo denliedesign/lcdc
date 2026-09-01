@@ -59,14 +59,19 @@
 
     <div class="container">
         <h1 class="text-center my-5">Staff</h1>
-        <div class="d-flex justify-content-center my-2"><img src="/images/LC.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/Allyson.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/Emily.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/Elliott.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/Jasmine.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/Shay.png" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/staff-elle.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-lindsey-claire.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-allyson.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-emily.png" alt="staff headshot" class="img-fluid"></div>
+{{--        <div class="d-flex justify-content-center my-2"><img src="/images/Elliott.png" alt="staff headshot" class="img-fluid"></div>--}}
+{{--        <div class="d-flex justify-content-center my-2"><img src="/images/Jasmine.png" alt="staff headshot" class="img-fluid"></div>--}}
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-shay.png" alt="staff headshot" class="img-fluid"></div>
+{{--        <div class="d-flex justify-content-center my-2"><img src="/images/staff-elle.png" alt="staff headshot" class="img-fluid"></div>--}}
         <div class="d-flex justify-content-center my-2"><img src="/images/bio-mike.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-staff-alex.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-staff-jillian.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-staff-jacqueline.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-staff-jimiah.png" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/26-staff-amber.png" alt="staff headshot" class="img-fluid"></div>
 
         {{--        <div class="d-flex justify-content-center my-2"><img src="/images/staff-1.jpg" alt="staff headshot" class="img-fluid"></div>--}}
 {{--        <div class="d-flex justify-content-center my-2"><img src="/images/staff-2.jpg" alt="staff headshot" class="img-fluid"></div>--}}
